@@ -1,0 +1,40 @@
+2023-04-07 12:05:46,866  INFO [main] ebanking:24- Entered Username
+2023-04-07 12:05:47,029  INFO [main] ebanking:27- Entered password
+2023-04-07 12:08:42,544  INFO [main] ebanking:24- Entered Username
+2023-04-07 12:08:42,644  INFO [main] ebanking:27- Entered password
+2023-04-07 12:12:46,586  INFO [main] ebanking:24- Entered Username
+2023-04-07 12:12:46,734  INFO [main] ebanking:27- Entered password
+2023-04-07 12:16:20,070  INFO [main] ebanking:24- Entered Username
+2023-04-07 12:16:20,186  INFO [main] ebanking:27- Entered password
+2023-04-07 12:21:06,268  INFO [main] ebanking:37- Test Passed
+2023-04-07 12:22:19,728  INFO [main] ebanking:20- URL is opened
+2023-04-07 12:22:19,860  INFO [main] ebanking:24- Entered Username
+2023-04-07 12:22:19,961  INFO [main] ebanking:27- Entered password
+2023-04-07 12:22:20,999  INFO [main] ebanking:37- Test Passed
+2023-04-08 16:09:28,198  INFO [main] ebanking:21- URL is opened
+2023-04-08 16:09:28,346  INFO [main] ebanking:25- Entered Username
+2023-04-08 16:09:28,559  INFO [main] ebanking:28- Entered password
+2023-04-08 16:12:48,816  INFO [main] ebanking:21- URL is opened
+2023-04-08 16:12:48,992  INFO [main] ebanking:25- Entered Username
+2023-04-08 16:12:49,114  INFO [main] ebanking:28- Entered password
+2023-04-08 16:12:50,132  INFO [main] ebanking:38- Test Passed
+2023-04-08 16:13:18,182  INFO [main] ebanking:21- URL is opened
+2023-04-08 16:13:18,358  INFO [main] ebanking:25- Entered Username
+2023-04-08 16:13:18,557  INFO [main] ebanking:28- Entered password
+2023-04-08 16:13:19,310  INFO [main] ebanking:38- Test Passed
+2023-04-08 16:14:25,888  INFO [main] ebanking:21- URL is opened
+2023-04-08 16:14:26,042  INFO [main] ebanking:25- Entered Username
+2023-04-08 16:14:26,227  INFO [main] ebanking:28- Entered password
+2023-04-08 16:14:27,219  INFO [main] ebanking:38- Test Passed
+2023-04-08 16:16:00,646  INFO [main] ebanking:21- URL is opened
+2023-04-08 16:16:00,844  INFO [main] ebanking:25- Entered Username
+2023-04-08 16:16:01,083  INFO [main] ebanking:28- Entered password
+2023-04-08 16:16:02,272  INFO [main] ebanking:38- Test Passed
+2023-04-08 16:42:08,446  INFO [main] ebanking:21- URL is opened
+2023-04-08 16:42:08,613  INFO [main] ebanking:25- Entered Username
+2023-04-08 16:42:08,740  INFO [main] ebanking:28- Entered password
+2023-04-08 16:42:09,769  INFO [main] ebanking:38- Test Passed
+2023-04-08 16:42:37,947  INFO [main] ebanking:21- URL is opened
+2023-04-08 16:42:38,089  INFO [main] ebanking:25- Entered Username
+2023-04-08 16:42:38,171  INFO [main] ebanking:28- Entered password
+2023-04-08 16:42:39,273  INFO [main] ebanking:38- Test Passed
